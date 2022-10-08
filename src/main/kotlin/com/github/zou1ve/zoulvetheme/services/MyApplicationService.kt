@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.zou1ve.zoulvetheme.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.zou1ve.zoulvetheme.MyBundle
 
 class MyApplicationService {
 
